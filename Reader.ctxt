@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Runs\ the\ program\ off\ of\ arguments\ inputted\r\n
+comment1.params=url\ type\ output
+comment1.target=void\ readWeb(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Reads\ the\ entire\ webpage\ URL\ and\ downloads\ any\ file\ of\ a\ specified\ type\r\n\ @param\:\ String\ url\ of\ any\ website,\ String\ type,\ String\ output\ destination\r\n
+comment2.params=fileURL\ destinationFile
+comment2.target=void\ saveFile(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Saves\ a\ specified\ file\ from\ a\ URL\ to\ a\ place\ in\ the\ desination\ folder\r\n\ @param\:\ String\ URL\ of\ file,\ String\ destionationFile\ of\ folder\ for\ output\r\n
+numComments=3

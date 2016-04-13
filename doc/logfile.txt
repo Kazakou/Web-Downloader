@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;G:\Web Downloader\commons-lang3-3.4.jar;G:\Web Downloader\commons-validator-1.5.0.jar;G:\Membership Data\poi-3.13-20150929.jar;G:\Membership Data\poi-examples-3.13-20150929.jar;G:\Membership Data\poi-excelant-3.13-20150929.jar;G:\Membership Data\poi-ooxml-3.13-20150929.jar;G:\Membership Data\poi-ooxml-schemas-3.13-20150929.jar;G:\Membership Data\poi-scratchpad-3.13-20150929.jar;G:\Membership Data\xmlbeans-2.6.0.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;G:\Web Downloader
+-d
+G:\Web Downloader\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+G:\Web Downloader\Reader.java
+<---- end of javadoc command ---->
+Loading source file G:\Web Downloader\Reader.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_60
+Building tree for all the packages and classes...
+Generating G:\Web Downloader\doc\Reader.html...
+G:\Web Downloader\Reader.java:21: warning - @param: is an unknown tag.
+G:\Web Downloader\Reader.java:121: warning - @param: is an unknown tag.
+Generating G:\Web Downloader\doc\package-frame.html...
+Generating G:\Web Downloader\doc\package-summary.html...
+Generating G:\Web Downloader\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating G:\Web Downloader\doc\allclasses-frame.html...
+Generating G:\Web Downloader\doc\allclasses-noframe.html...
+Generating G:\Web Downloader\doc\index.html...
+Generating G:\Web Downloader\doc\stylesheet.css...
+2 warnings

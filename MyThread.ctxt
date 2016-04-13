@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyThread()
+comment1.params=u\ t\ o\ n\ s\ d
+comment1.target=MyThread(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.concurrent.CountDownLatch,\ java.util.concurrent.CountDownLatch)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ read()
+numComments=4

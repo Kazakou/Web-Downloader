@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Main(int,\ int)
+comment1.params=cW\ cH
+comment1.target=void\ makeBounds(int,\ int)
+numComments=2
